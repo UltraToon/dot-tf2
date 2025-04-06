@@ -1,6 +1,6 @@
 # dot-tf2
 A script to quickly clean &amp; restore a TF2 config/custom files/downloads. Works on a fresh AND dirty installs of TF2
-
+https://app.netlify.com/start/deploy?repository=https://github.com/sussy-code/sudo-proxy
 ## How does it work?
 
 This script automates the steps outlined in Mastercomfig's [Clean Up Guide](https://docs.mastercomfig.com/9.7.0/fr/setup/clean_up/) that states:
